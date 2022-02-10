@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Btech cse
 - 💞️ I’m looking to collaborate on ...Internships
-- 📫 How to reach me ...recruitSparsh2023@gmail.com
+- 📫 How to reach me ...sparshtripathi.3@gamil.com
 
 <!---
 Sparsh9045/Sparsh9045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
