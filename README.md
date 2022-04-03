@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sparsh9045
-- 👀 I’m interested in ...coding
+- 👀 I’m interested in ...coding and fullstack website development
 - 🌱 I’m currently learning ...Btech cse
 - 💞️ I’m looking to collaborate on ...Internships
 - 📫 How to reach me ...sparshtripathi.3@gamil.com
